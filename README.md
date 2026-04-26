@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="YOUR_BANNER_LINK" width="100%" />
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/yoonyoungyang/yoonyoungyang/banner-image" width="100%" />
+<br/>
 
 ### ✦ Front-end Developer  
 React · TypeScript · UX Driven  
