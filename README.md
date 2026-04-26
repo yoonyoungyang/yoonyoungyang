@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yoonyoungyang/yoonyoungyang/banner-image" width="100%" />
+<img src="https://raw.githubusercontent.com/yoonyoungyang/yoonyoungyang/main/banner-image" width="100%" />
 <br/>
 
 ### ✦ Front-end Developer  
